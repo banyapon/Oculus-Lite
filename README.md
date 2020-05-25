@@ -25,4 +25,6 @@ Go to **File** -> ** Build Settings...** and then select **Player Settings**
 Enjoy, have fun!
 
 If you want to know more detail about this project: https://www.facebook.com/daydevthailand
+```
 College of Creative Design and Entertainment Technology.
+```
