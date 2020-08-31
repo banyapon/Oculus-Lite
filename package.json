@@ -1,0 +1,23 @@
+{
+  "name": "oculus-lite",
+  "version": "0.0.1",
+  "description": "Light Weight Oculus Quest and Rift ready VR for Unity Game Engine.",
+  "main": "index.js",
+  "scripts": {
+    "test": "ovrlite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banyapon/Oculus-Lite.git"
+  },
+  "keywords": [
+    "oculuslite"
+  ],
+  "author": "Banyapon Poolsawas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/banyapon/Oculus-Lite/issues"
+  },
+  "homepage": "https://github.com/banyapon/Oculus-Lite#readme",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/"}
+}
